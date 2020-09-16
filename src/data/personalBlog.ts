@@ -1,3 +1,5 @@
+import TAG from "../constant/tag";
+
 const blogData = [
   {
     author: "ljianshu",
@@ -14,6 +16,7 @@ const blogData = [
         link: "",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "berwin",
@@ -30,6 +33,7 @@ const blogData = [
         link: "https://fe.dog/",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "KieSun",
@@ -47,6 +51,7 @@ const blogData = [
           "https://juejin.im/book/6844733763675488269?referrer=574f8d8d2e958a005fd4edac",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "MuYunyun",
@@ -63,6 +68,7 @@ const blogData = [
         link: "http://muyunyun.cn/blog/#/README",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "abc-club",
@@ -80,6 +86,7 @@ const blogData = [
         link: "https://share.aoping.club/",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "xd-tayde",
@@ -91,6 +98,7 @@ const blogData = [
       starImg: "https://img.shields.io/github/stars/xd-tayde/blog?style=social",
     },
     resources: [],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "brickspert(砖家)",
@@ -103,6 +111,7 @@ const blogData = [
         "https://img.shields.io/github/stars/brickspert/blog?style=social",
     },
     resources: [],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "dt-fe",
@@ -119,6 +128,7 @@ const blogData = [
         link: "",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "YvetteLau",
@@ -144,6 +154,7 @@ const blogData = [
         link: "",
       },
     ],
+    tags: [TAG.FRONTEND],
   },
   {
     author: "yygmind",
@@ -164,6 +175,7 @@ const blogData = [
         link: "",
       },
     ],
+    tags: [TAG.FRONTEND, TAG.INTERVIEW],
   },
 ];
 
