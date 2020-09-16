@@ -120,6 +120,31 @@ const blogData = [
       },
     ],
   },
+  {
+    author: "YvetteLau",
+    link: "https://github.com/YvetteLau",
+    blog: {
+      name: "YvetteLau/Blog",
+      link: "https://github.com/YvetteLau/Blog",
+      starNum: 1834,
+      starImg:
+        "https://img.shields.io/github/stars/YvetteLau/Blog?style=social",
+    },
+    resources: [
+      {
+        name: "segmentFault",
+        link: "https://segmentfault.com/u/liuyan666/articles",
+      },
+      {
+        name: "掘金",
+        link: "https://juejin.im/user/5c6256596fb9a049bd42c770/posts",
+      },
+      {
+        name: "公众号：前端宇宙",
+        link: "",
+      },
+    ],
+  },
 ];
 
 export default blogData;

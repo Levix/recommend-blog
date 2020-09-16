@@ -25,11 +25,11 @@ const handlePersonBlogData = async () => {
         if (!link) {
           resources2Str += `${
             resources.length > 1 ? `${resourceIndex + 1}. ` : ""
-          }${name} `;
+          }${name} <br>`;
         } else {
           resources2Str += `${
             resources.length > 1 ? `${resourceIndex + 1}. ` : ""
-          }[${name}](${link}) `;
+          }[${name}](${link}) <br>`;
         }
       });
     }
