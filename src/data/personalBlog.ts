@@ -145,6 +145,26 @@ const blogData = [
       },
     ],
   },
+  {
+    author: "yygmind",
+    link: "https://github.com/yygmind",
+    blog: {
+      name: "yygmind/blog",
+      link: "https://github.com/yygmind/blog",
+      starNum: 8652,
+      starImg: "https://img.shields.io/github/stars/yygmind/blog?style=social",
+    },
+    resources: [
+      {
+        name: "高级前端进阶博文",
+        link: "https://muyiy.cn/blog/",
+      },
+      {
+        name: "公众号：高级前端进阶",
+        link: "",
+      },
+    ],
+  },
 ];
 
 export default blogData;

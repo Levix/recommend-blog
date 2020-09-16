@@ -1,6 +1,7 @@
 作者 | 博客 | 相关资源 | star
 ------------ | ------------- | ------------- | -------------
 [dt-fe](https://github.com/dt-fe) | [dt-fe/weekly](https://github.com/dt-fe/weekly) | 公众号：前端精读周刊 <br> | ![dt-fe](https://img.shields.io/github/stars/dt-fe/weekly?style=social)
+[yygmind](https://github.com/yygmind) | [yygmind/blog](https://github.com/yygmind/blog) | 1. [高级前端进阶博文](https://muyiy.cn/blog/) <br>2. 公众号：高级前端进阶 <br> | ![yygmind](https://img.shields.io/github/stars/yygmind/blog?style=social)
 [ljianshu](https://github.com/ljianshu) | [ljianshu/Blog](https://github.com/ljianshu/Blog) | 公众号：前端工匠 <br> | ![ljianshu](https://img.shields.io/github/stars/ljianshu/Blog?style=social)
 [brickspert(砖家)](https://github.com/brickspert/blog) | [brickspert/blog](https://github.com/brickspert/blog) | / | ![brickspert(砖家)](https://img.shields.io/github/stars/brickspert/blog?style=social)
 [berwin](https://github.com/berwin) | [berwin/Blog](https://github.com/berwin/Blog) | [Berwin](https://fe.dog/) <br> | ![berwin](https://img.shields.io/github/stars/berwin/blog?style=social)
