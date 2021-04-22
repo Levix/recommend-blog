@@ -177,6 +177,23 @@ const blogData = [
     ],
     tags: [TAG.FRONTEND, TAG.INTERVIEW],
   },
+  {
+    author: "冴羽",
+    link: "https://github.com/mqyqingfeng",
+    blog: {
+      name: "冴羽的博客",
+      link: "https://github.com/mqyqingfeng/Blog",
+      starNum: 22640,
+      starImg: "https://img.shields.io/github/stars/mqyqingfeng/Blog?style=social",
+    },
+    resources: [
+      {
+        name: "公众号：冴羽的JavaScript博客",
+        link: "",
+      },
+    ],
+    tags: [TAG.FRONTEND, TAG.INTERVIEW],
+  }
 ];
 
 export default blogData;
